@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>Griffin Scalley</title>
 <body>
