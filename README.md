@@ -3,7 +3,7 @@
 <body>
 
 <h1>greetings</h1>
-<p>This is a paragraph.</p>
+<p>Tis my website</p>
 
 <a href="http://www.cocc.edu">cocc home page</a>
 </body>
