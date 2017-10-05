@@ -6,5 +6,4 @@
 <a href="https://gscalley.github.io/GscalleyDreamingQ-A.github.io/">dreaming in code questions</a>
 <body>
 </body>
-</html>
 
