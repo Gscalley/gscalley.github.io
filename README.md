@@ -3,8 +3,8 @@
 <body>
 
 <h1>greetings</h1>
-<p> Chapter 0:
-1. Who wrote “software is hard?” Who is that guy? = Donald Knuth, the art of computer programing
+<p> Chapter 0:<p>
+<p>1. Who wrote “software is hard?” Who is that guy? = Donald Knuth, the art of computer programing<p>
 2. Programmers start counting at what number? = 0
 3. What was the original sense of a “hacker?” = “obsessive programing tinkerer”
 4. According to a 2002 NIST study what % of software came in significantly late, over budget, or was canceled? = 2/3, or 66.6%
