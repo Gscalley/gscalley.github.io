@@ -7,6 +7,5 @@
 <a href="https://gscalley.github.io/GscalleyDreamingQ-A.github.io/">dreaming in code questions</a>
 </p>
 </p>
-<a href="GscalleyScratchfiles.github.io">scratch files</a
+<a href="GscalleyScratchfiles.github.io">scratch files</a>
 </p>
->
