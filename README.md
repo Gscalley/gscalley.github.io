@@ -11,7 +11,7 @@
 <a href="GscalleyScratchfiles.github.io">scratch files</a>
 
 <p>College 1: Oregon State University Cascades
-Program: Computer Science: web and Mobile Software development
+Program: Computer Science: web and Mobile Software development<p>
 
-College 2: Portland State University
+<p>College 2: Portland State University
 Program: Bachelor in computer science, masters in computer science<p>
